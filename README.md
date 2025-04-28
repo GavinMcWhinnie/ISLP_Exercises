@@ -1,2 +1,6 @@
 # ISLP_Exercises
-Selected exercises from each chapter in "An Introduction to Statistical Learning", available at https://www.statlearning.com/.
+
+These notebooks contain my personal solutions to exercises from _An Introduction to Statistical Learning with Python (ISLP)_.
+The original questions are copyrighted by the authors; this repository is for educational purposes only.
+
+"An Introduction to Statistical Learning", is available at https://www.statlearning.com/.
